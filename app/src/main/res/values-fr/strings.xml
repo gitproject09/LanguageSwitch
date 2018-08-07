@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">bonjour tout le monde, LocalizationUpdaterActivity!</string>
+    <string name="text">C"'"était à la moitié du trajet de la vie;
+Je me trouvais au fond d"'"un bois sans éclaircie,
+Comme le droit chemin était perdu pour moi....</string>
+
+</resources>

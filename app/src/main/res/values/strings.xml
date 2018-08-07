@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Language Switch</string>
+
+    <string name="sample_text">
+        Google, headquartered in Mountain View, unveiled the new Android phone at the Consumer
+        Electronic Show.  Sundar Pichai said in his keynote that users love their new Android
+        phones.
+    </string>
+
+    <string name="introduction">
+        Enter text in English, Spanish or Japanese.
+    </string>
+
+    <string-array name="api_names">
+        <item>Entities</item>
+        <item>Sentiment</item>
+        <item>Syntax</item>
+    </string-array>
+
+    <string name="salience_format">Salience: %.3f</string>
+
+    <string name="score">Score</string>
+    <string name="magnitude">Magnitude</string>
+
+    <string name="hello">Hello World, LocalizationUpdaterActivity!</string>
+
+    <string name="text">Midway upon the journey of our life
+I found myself within a forest dark,
+For the straightforward pathway had been lost....</string>
+
+</resources>

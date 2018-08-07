@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">স্বাগতম! আপনি হেল্প সেন্টার এর সাথে যুক্ত হয়েছেন</string>
+    <string name="text">আপনি কি হেল্প সেন্টার ত্যাগ করতে চান ?\n স্বাগতম! আপনি হেল্প সেন্টার এর সাথে যুক্ত হয়েছেন</string>
+</resources>

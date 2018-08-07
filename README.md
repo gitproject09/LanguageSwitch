@@ -1,4 +1,4 @@
-# Google Cloud Natural Language API examples
+# Language Switch examples
 
 This directory contains Android example that uses the
 [Google Cloud Natural Language API](https://cloud.google.com/natural-language/).
